@@ -4,7 +4,7 @@ export default function Hero() {
       backgroundColor: 'var(--bg-secondary)',
       color: 'var(--text-primary)'
     }}>
-      <h2 className="text-4xl font-bold mb-4">Bienvenido a mi página 🚀</h2>
+      <h2 className="text-4xl font-bold mb-4">Bienvenido a mi página web este 2025 🚀</h2>
       <p className="text-lg mb-6" style={{ color: 'var(--text-secondary)' }}>
         Este es un ejemplo de página con React y modo nocturno
       </p>
